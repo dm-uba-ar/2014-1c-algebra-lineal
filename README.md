@@ -1,9 +1,5 @@
 # Álgebra Lineal — Primer cuatrimestre de 2014
 
-## Equipo docente
-
-- **Clases teóricas:** Teresa Krick
-
 ## Prácticas
 
 - [Práctica 0 - Matrices, sistemas de ecuaciones lineales, matrices elementales.](AL-Practica0-1ro14.pdf)
